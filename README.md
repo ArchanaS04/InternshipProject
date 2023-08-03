@@ -1,7 +1,7 @@
 # MovieHubProject
 
 #Steps to follow while running programs
-1. First Install Node.Js
+1. Install Node.Js
 2. In Command Prompt excute following command
   npx create-react-app myReactApp
   cd myReactApp
